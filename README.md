@@ -1,0 +1,1 @@
+# MyDealz-Disable-Categories
