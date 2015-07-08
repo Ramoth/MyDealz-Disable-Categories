@@ -5,6 +5,7 @@
 // @description  Ausblendung der Kategorien
 // @author       Ramoth / vielleichtmann1
 // @include      http://www.mydealz.de/*
+// @include      https://www.mydealz.de/*
 // @grant        none
 // ==/UserScript==
 
