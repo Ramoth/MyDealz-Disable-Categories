@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MyDealz Kategorien ausblenden
 // @namespace    http://www.mydealz.de
-// @version      1.0
+// @version      1.01
 // @description  Ausblendung der Kategorien
 // @author       Ramoth / vielleichtmann1
 // @include      http://www.mydealz.de/*
